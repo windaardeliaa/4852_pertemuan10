@@ -1,0 +1,15 @@
+D:\KULIAH\SEM-2\Pemrograman\22.11.4852\polymorinter\bin\Debug\net6.0\polymorinter.exe
+D:\KULIAH\SEM-2\Pemrograman\22.11.4852\polymorinter\bin\Debug\net6.0\polymorinter.deps.json
+D:\KULIAH\SEM-2\Pemrograman\22.11.4852\polymorinter\bin\Debug\net6.0\polymorinter.runtimeconfig.json
+D:\KULIAH\SEM-2\Pemrograman\22.11.4852\polymorinter\bin\Debug\net6.0\polymorinter.dll
+D:\KULIAH\SEM-2\Pemrograman\22.11.4852\polymorinter\bin\Debug\net6.0\polymorinter.pdb
+D:\KULIAH\SEM-2\Pemrograman\22.11.4852\polymorinter\obj\Debug\net6.0\polymorinter.csproj.AssemblyReference.cache
+D:\KULIAH\SEM-2\Pemrograman\22.11.4852\polymorinter\obj\Debug\net6.0\polymorinter.GeneratedMSBuildEditorConfig.editorconfig
+D:\KULIAH\SEM-2\Pemrograman\22.11.4852\polymorinter\obj\Debug\net6.0\polymorinter.AssemblyInfoInputs.cache
+D:\KULIAH\SEM-2\Pemrograman\22.11.4852\polymorinter\obj\Debug\net6.0\polymorinter.AssemblyInfo.cs
+D:\KULIAH\SEM-2\Pemrograman\22.11.4852\polymorinter\obj\Debug\net6.0\polymorinter.csproj.CoreCompileInputs.cache
+D:\KULIAH\SEM-2\Pemrograman\22.11.4852\polymorinter\obj\Debug\net6.0\polymorinter.dll
+D:\KULIAH\SEM-2\Pemrograman\22.11.4852\polymorinter\obj\Debug\net6.0\refint\polymorinter.dll
+D:\KULIAH\SEM-2\Pemrograman\22.11.4852\polymorinter\obj\Debug\net6.0\polymorinter.pdb
+D:\KULIAH\SEM-2\Pemrograman\22.11.4852\polymorinter\obj\Debug\net6.0\polymorinter.genruntimeconfig.cache
+D:\KULIAH\SEM-2\Pemrograman\22.11.4852\polymorinter\obj\Debug\net6.0\ref\polymorinter.dll
